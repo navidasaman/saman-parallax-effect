@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/saman-parallax-effect/static/css/main.ce4211e7.css",
+    "main.js": "/saman-parallax-effect/static/js/main.8f4bbf67.js",
+    "static/js/787.f2e171af.chunk.js": "/saman-parallax-effect/static/js/787.f2e171af.chunk.js",
+    "static/media/jag.png": "/saman-parallax-effect/static/media/jag.8e2e3fc109f681b07257.png",
+    "static/media/me.png": "/saman-parallax-effect/static/media/me.bdc236eacb96ce4d0568.png",
+    "static/media/lines.png": "/saman-parallax-effect/static/media/lines.546efe6079b1a2aceb24.png",
+    "static/media/moon.png": "/saman-parallax-effect/static/media/moon.53e6c874241e6c72a7a6.png",
+    "static/media/sky.png": "/saman-parallax-effect/static/media/sky.3b7177a4cc3a2b9ab633.png",
+    "static/media/exp.jpg": "/saman-parallax-effect/static/media/exp.3be2777354db319e2d08.jpg",
+    "static/media/portfolio.jpg": "/saman-parallax-effect/static/media/portfolio.d71c06539571d22f209d.jpg",
+    "static/media/mountainss.png": "/saman-parallax-effect/static/media/mountainss.9330b16bcdfcba1b9d04.png",
+    "static/media/knowledge2.png": "/saman-parallax-effect/static/media/knowledge2.d20a954a8c221b3ce707.png",
+    "static/media/starrysky2.png": "/saman-parallax-effect/static/media/starrysky2.1b1fbbae6ab4ff966391.png",
+    "index.html": "/saman-parallax-effect/index.html",
+    "main.ce4211e7.css.map": "/saman-parallax-effect/static/css/main.ce4211e7.css.map",
+    "main.8f4bbf67.js.map": "/saman-parallax-effect/static/js/main.8f4bbf67.js.map",
+    "787.f2e171af.chunk.js.map": "/saman-parallax-effect/static/js/787.f2e171af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce4211e7.css",
+    "static/js/main.8f4bbf67.js"
+  ]
+}
