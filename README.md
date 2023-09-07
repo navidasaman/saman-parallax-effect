@@ -1,4 +1,6 @@
-# Experimented with parallax and created a website
+### Site can be viewed at: Site can be viewed at: https://navidasaman.github.io/saman-parallax-effect/
+## Experimented with parallax and created a website
+
 
 
 # Getting Started with Create React App
